@@ -1,0 +1,64 @@
+.about-us hr{ 
+    width:50px;
+    height: 2px;
+    border:2px solid black;
+
+}
+
+.our-package{
+color: #0A0826;
+font-size: 38px;
+
+}
+
+.package h4{
+    color: #231D4F;
+    font-size: 36px;
+}
+
+.package h5{
+    color:#231D4F;
+
+
+    font-size:28px;
+}
+
+ .ul li {
+    display:block;
+    padding: 4px;
+    margin-left: -30px;
+    
+}
+
+ .price-button{
+    background-color:rgba(244, 150, 210, 0.281);
+    color: #3F87F5;
+    font-size:15px;
+    margin-left: -30px;
+    margin-top:15px;
+}
+
+.Wedding-plus{
+
+    background-color:rgba(63, 135, 245, 1) ;
+    border-radius: 26px;
+    padding: 20px 10px 10px 30px ;
+    color: white;
+    box-shadow: 0px 42px 34px 0px rgba(63, 135, 245, 0.25);
+
+
+}
+.Wedding-plus h5{
+
+    color: white;
+    font-size:28px;
+    font-weight: 700;
+    font-family: 'roboto';
+}
+
+.Wedding-plus h4{
+
+    color: white;
+    font-size:28px;
+    font-weight: 700;
+}
